@@ -1,0 +1,19 @@
+Questions: - What's the game name?
+The Big Race
+
+Tools:
+
+- Matter.js (https://brm.io/matter-js/) - https://brm.io/matter-js/demo/#mixed ( Avalanche example )
+
+Backlog:
+
+- Criar circuito com vários tipos de obstáculo.
+- Fazer câmera seguir o circuito. - Opção de tema para jogadores (times, cores, países etc...).
+- Criar menu ( opção de número de jogadores ).
+- Criar pódio no final do circuito cada bolinha chegar na sua posição/qualificação.
+
+Ideas:
+
+- https://www.youtube.com/watch?v=SOS2tybt8r4&ab_channel=CrazyMarbleRace
+- https://www.youtube.com/watch?v=cvyOBNkLkPs&ab_channel=LunarMarbleRace
+  https://www.marblerun.at/
